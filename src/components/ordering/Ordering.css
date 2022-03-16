@@ -1,0 +1,52 @@
+.input__right {
+  margin-right: 10px;
+}
+.input__left {
+  margin-left: 10px;
+}
+.div__input {
+  padding-right: 10px;
+}
+.bg__grey {
+  background: #d6d6d6;
+  border-radius: 15px;
+}
+
+.pen__2 {
+  position: absolute;
+  right: 10px;
+  top: 5px;
+  color: #8e8e8e;
+  cursor: pointer;
+}
+.pen__3 {
+  position: absolute;
+  right: 0;
+  top: 5px;
+  color: #8e8e8e;
+  cursor: pointer;
+}
+.pen__1 {
+  position: absolute;
+  right: 10px;
+  top: 20px;
+  color: #8e8e8e;
+  cursor: pointer;
+}
+.x1 {
+  margin-right: 10px;
+}
+.select__card {
+  border: none;
+  outline: none;
+}
+.promocode {
+  border: none;
+}
+.pen__5 {
+  position: absolute;
+  right: 27px;
+  top: 64px;
+  color: #8e8e8e;
+  cursor: pointer;
+}

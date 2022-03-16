@@ -1,0 +1,32 @@
+.nav__content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: 10px 0;
+  padding: 0 10px;
+}
+.logo {
+  width: 30%;
+}
+.nav__select {
+  border: none;
+  padding: 10px;
+  outline: none;
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 18px;
+  color: #101010;
+  background: transparent;
+}
+.nav__phone {
+  margin-top: 14px;
+  margin-left: 60px;
+}
+.icons {
+  width: 70px;
+  display: flex;
+  justify-content: space-between;
+  color: #838383;
+}
